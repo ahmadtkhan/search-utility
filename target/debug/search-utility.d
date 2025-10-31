@@ -1,0 +1,1 @@
+/home/ahmad-khan/Documents/rustc_course/search-utility/target/debug/search-utility: /home/ahmad-khan/Documents/rustc_course/search-utility/src/libs.rs /home/ahmad-khan/Documents/rustc_course/search-utility/src/main.rs
